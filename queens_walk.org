@@ -1,0 +1,133 @@
+* Queens Go For a Walk
+
+The queens woke up and are up for a walk. But queens never go for walks just
+like that! Every queen needs to have an entourage of suitors, and a certain
+special thing she would never leave without: her token.
+
+See how many queens you can attract to go for a walk with you in this light game
+played with a deck of Sleeping Queens cards.
+
+(A note: what I have available is the deluxe edition of Sleeping Queens with 16
+queens, but the game is played with a subset of cards available in the original
+12-queen edition as well. There are 2 more kings and 1 fewer jester in the
+deluxe game, but I do not think that really impacts the game, so I did not pay
+attention to it in the rules.)
+
+** Setup
+
+- In the queens' pack, only keep the following ten queens: cake queen, rose
+  queen, cat queen, moon queen, ladybug queen, heart queen, sunflower queen,
+  pancake queen and starfish queen. Discard the rest of the queens, they are not
+  used in the game.
+
+  Put them all in a deck and shuffle: this is the queen deck.
+
+- In the main deck, keep the following cards: all numbers, kings, knights and
+  jesters. Shuffle.
+
+Deal four queens to the central location of the table. This represents the
+queens that are willing to entertain the idea of a walk at this moment.
+
+Deal five cards to each player.
+
+** How to Play
+
+The goal is for players to collect everything necessary for royal walk: a chosen
+queen's token, and at least two different suitors.
+
+A queen's token is in each queen's name. E.g. a cake queen wants her cake, the
+sunflower queen her sunflower, etc. The suitors are jesters, kings and knights.
+At least two different suitors are necessary: a knight and a king, or a knight
+and a jester, or a king and a jester.
+
+When a complement of the queen's token and at least two suitors is ready, the
+queen is persuaded to go for a walk: the player gets that queen.
+
+Each player has a dedicated area where they place the complement cards. The game
+works best in two players, where one player adds complement cards from one side,
+and the other from the other side:
+
+: P1 complement -> ╎   ╎╰───╯╎   ╎
+:                  ╰───╯╰───╯╰───╯                                  ╭───╮─╮
+:            ╭───╮ ╭───╮╭───╮╭───╮╭───╮ <- the dealt queens   ╭───╮ ╭╭───╮│
+:   queen -> │▞▞▞│ │ Q ││ Q ││ Q ││ Q │                       │▓▓▓│ ││☆ ☆││
+:    deck    │▞▞▞│ │   ││   ││   ││   │          main deck -> │▓▓▓│ ││☆ ☆│╯
+:            ╰───╯ ╰───╯╰───╯╰───╯╰───╯                       ╰───╯ ╰╰───╯
+:                  ╭───╮╭───╮     ╭───╮                  discard pile ^
+: P2 complement -> ╭───╮╎   ╎     ╭───╮
+
+When more than two players play, it's perhaps best if each player gets their
+dedicated row above or below the queen array, depending on where they sit.
+Another possibility is to surround each queen dealt from up to four sides.
+
+The player to the left of the dealer goes first and the game continues
+clockwise. Each player's round proceeds as follows:
+
+1. A player can deal a number card that has the queen's token to that queen.
+   Each player can add at most one token card to each queen. E.g. a player can
+   deal a starfish card (a 10) to the starfish queen, but not two, and not any
+   other number card. At the same time another player can also deal a starfish
+   card to the starfish queen in their complement row.
+
+2. A player can deal a face card to a queen, if the queen does not yet have that
+   face with her.
+
+   I.e. each queen can have up to one knight, one king, one jester, and one
+   token card per complement. (Yes, only two faces are necessary, but the more
+   the merrier!)
+
+3. If a queen's complement contains her token and at least two faces, the
+   complement is full, the queen goes out, and the player who filled the
+   complement gets her. All complement cards dealt for that queen, full or not,
+   are moved to the discard pile. A new queen is dealt in place of the removed
+   one, if possible.
+
+4. Steps 1-3 are repeated arbitrarily.
+
+5. Cards can be discarded from hand as follows:
+   - Any single card can be discarded.
+   - Two or more number cards can be discarded if they all have the same value.
+   - Three or more number cards can be discarded if they can be split into two
+     non-empty sets such that sums of values in these sets are equal. E.g. 2, 3,
+     5 can be discared because 2 + 3 = 5, or 1, 1, 2, 2 can be discarded because
+     1 + 2 = 1 + 2.
+
+6. Finally the player draws up from the main deck so that they have again five
+   cards on hand.
+
+   When the main deck is exhausted, shuffle the discard pile and make it a new
+   main deck.
+
+** End of Game
+
+The game ends when the last queen goes for a walk.
+
+Afterwards each player adds the score of each queen that they got. The player
+with the biggest score wins. In case of a draw, the player with fewer queens
+(i.e. who managed to attract the most desirable queens, on average) wins. In
+case of a draw... it's a draw!
+
+** Author Notes
+
+Since four queens are dealt, four different token cards can be played. There are
+four copies of each token card in the deck, thus one needs to get one of 16
+cards to be able to make progress on at least one queen's complement. There are
+also 10 kings, 4 knights and 4 jesters. So one needs to additionally get one of
+10 cards + one of 8 cards. The tokens are thus statistically overweight, and one
+should actually deal two or three queen cards.
+
+Moreover, because faces are universal, it makes sense to hoard them and wait for
+the right token card, at which point the whole thing is dealt in one go. But
+then one has fewer cards to draw, and like with Sleeping Queens, one needs to
+keep the hand moving, and this goes contrary to the goal.
+
+I suppose I'll end up tweaking the game some more as we play it.
+
+Further Ideas:
+
+- Bottle cards could be used to discard individual faces (they get drunk and the
+  queen doesn't want them around anymore).
+- Wand cards could be similarly used to discard token cards (the token was
+  destroyed / chased away by a spell).
+- Dragons could be used to move a queen to the bottom of the queen deck (the
+  queen is in no mood for walks if dragons are flying around).
